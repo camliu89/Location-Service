@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+    <string name="s_accelerometer">Accelerometer</string>
+    <string name="app_name">ICS499-GPS</string>
+    <string name="s_data">See Data</string>
+    <string name="cancel_back">Back</string>
+    <string name="s_getAverage">Start Average Calculation</string>
+    <string name="title_activity_data_preview">DataPreviewActivity</string>
+    <string name="title_activity_gps">GpsActivity</string>
+    <string name="s_latitude">Latitude</string>
+    <string name="s_longitude">Longitude</string>
+    <string name="s_getLocation">Get Location</string>
+    <string name="title_activity_gpsbackground">Location Service</string>
+    <string name="s_startService">Start Location Service</string>
+    <string name="s_stopService">Stop Location Service</string>
+    <string name="s_gps">GPS</string>
+    <string name="s_network">Network</string>
+    
+</resources>

@@ -1,0 +1,17 @@
+# OS X temporary files that should never be committed
+.DS_Store
+*.swp
+*.lock
+profile
+
+# Maven derived files that should not be committed
+target/*
+.checkstyle
+
+# Eclipse derived files that should not be committed
+.settings/*
+\$\{robocode.home\}
+
+# Android
+bin/
+gen/
