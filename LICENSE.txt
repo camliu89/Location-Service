@@ -1,4 +1,4 @@
-robocode-ayj-ARobot. A competitive Robocode.
+Location Service. A location tracking app.
 
 Copyright (C) <2013> <Alexander Cam Liu>
 
