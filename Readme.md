@@ -1,4 +1,4 @@
-robocode-ayj-Arobot
+Location Service App
 =====================
 
 * [User Guide](https://github.com/camliu89/Location-Service/wiki/User-Guide)
